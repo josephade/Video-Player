@@ -1,3 +1,3 @@
 # Video-Player
 
-Link to project [here](https://github.com/josephade/Video-Player.git)
+Link to project [here](https://josephade.github.io/Video-Player/)
